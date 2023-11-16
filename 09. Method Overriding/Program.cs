@@ -15,7 +15,7 @@ namespace _09.Method_Overriding
 
         class clsB : clsA
         {
-            public override void Print()
+            public virtual void Print()
             {
                 //base.Print();
                 Console.WriteLine("From class B");
@@ -25,6 +25,9 @@ namespace _09.Method_Overriding
         {
             clsB objB = new clsB();
             objB.Print();
+
+            clsA objA = objB;
+            objA.Print();
         }
     }
 }
