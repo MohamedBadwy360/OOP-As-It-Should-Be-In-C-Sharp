@@ -14,4 +14,4 @@ The Course is about `OOP In C#`.
 
 ## `Certificate`
 
-![Cerificate](/16%20-%20OOP%20As%20It%20Should%20Be%20In%20C#.jpg)
+![Cerificate](/16%20-%20OOP%20As%20It%20Should%20Be%20In%20C%23.jpg)
